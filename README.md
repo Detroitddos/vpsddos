@@ -117,10 +117,5 @@ This bot is intended for educational purposes only. The misuse of this bot may r
 
 If you wish to contribute to this project, feel free to submit a pull request or open an issue on GitHub.
 
-## Contact
-
-For any queries or support, contact [venomXcrazy](https://t.me/venomXcrazy) on Telegram. 
-
----
-
+____
 Happy DDoS'ing responsibly! 🚀
